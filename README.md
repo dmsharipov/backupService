@@ -9,11 +9,11 @@ To set the service settings, a config.txt file was created that stores informati
 - masks / filenames to be saved in the archive.
 
 # Example of config.txt
-C:\Users\user1\dir\
-C:\Users\user1\backup_storage\backup.zip
-b?c*.txt
-*.d???
-doc*.exe
+- C:\Users\user1\dir\
+- C:\Users\user1\backup_storage\backup.zip
+- b?c*.txt
+- *.d???
+- doc*.exe
 
 # Debug
 Debug information is output using the addLogMessage () function to the log.txt file.
